@@ -5,11 +5,11 @@
     <class>entities.User</class>
     <class>entities.Profildroit</class>
     <class>entities.Paiementfournisseur</class>
-    <class>entities.Type</class>
+    <class>bf.solinno.nanagestion.entities.Type</class>
     <class>entities.DetailsApprov</class>
     <class>entities.Tracability</class>
     <class>entities.Droit</class>
-    <class>entities.Unite</class>
+    <class>bf.solinno.nanagestion.entities.Unite</class>
     <class>entities.Approv</class>
     <class>entities.SequenceProforma</class>
     <class>entities.Profil</class>
@@ -20,7 +20,7 @@
     <class>entities.Parametre</class>
     <class>entities.Retraitcaisse</class>
     <class>entities.Client</class>
-    <class>entities.Produit</class>
+    <class>bf.solinno.nanagestion.entities.Produit</class>
     <class>entities.Factureproduit</class>
     <class>entities.SequenceFacture</class>
     <class>entities.Paiement</class>
